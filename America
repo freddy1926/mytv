@@ -1185,36 +1185,7 @@ http://necro.to:80/live/umar@jamtelecom.com/57noZ7a6De/7343.m3u8
 http://necro.to:80/live/umar@jamtelecom.com/57noZ7a6De/7445.m3u8
 #EXTINF:-1,CA: YTV East HD
 http://necro.to:80/live/umar@jamtelecom.com/57noZ7a6De/7444.m3u8
-#EXTINF:-1,--------------  USA  --------------
-http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/892.m3u8
-#EXTINF:-1,USA - FOX NEWS HD
-http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/2690.m3u8
-#EXTINF:-1,USA - NBC HD
-http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/2691.m3u8
-#EXTINF:-1,USA - CBS Action
-http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/2611.m3u8
-#EXTINF:-1,USA - CBS Drama
-http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/2610.m3u8
-#EXTINF:-1,USA - Discovery Showcase
-http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/2607.m3u8
-#EXTINF:-1,USA - Fox Sports 1 HD
-http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/2604.m3u8
-#EXTINF:-1,USA - HGTV
-http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/2603.m3u8
-#EXTINF:-1,USA - NBA HD
-http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/2602.m3u8
-#EXTINF:-1,USA - NBC Sport
-http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/2601.m3u8
-#EXTINF:-1,USA - Nick HD
-http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/2600.m3u8
-#EXTINF:-1,USA - Starz East
-http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/2599.m3u8
-#EXTINF:-1,USA - Starz Edge
-http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/2598.m3u8
-#EXTINF:-1,USA - SyFy HD
-http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/2597.m3u8
-#EXTINF:-1,USA - TNT HD
-http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/2612.m3u8
+
 A标清央视卫视
 #EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/CCTV-1.png",group-title="A标清央视卫视",CCTV-1
 http://223.110.242.130:6610/cntv/live1/cctv-1/1.m3u8
